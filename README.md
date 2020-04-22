@@ -50,7 +50,7 @@ Prof. Ricardo Leme – [@ricardoleme](https://twitter.com/ricardorleme)
 
 Distribuído sob a licença [MIT](https://opensource.org/licenses/MIT).
 
-[https://github.com/ricardoleme/FatecNodeAPI](https://github.com/ricardoleme/FatecNodeAPI)
+[https://github.com/ricardoleme/react-firebase-login](https://github.com/ricardoleme/react-firebase-login)
 
 ## Contributing
 
