@@ -20,7 +20,7 @@ npm i
 
 ## Exemplo de uso
 
-Não esqueça de copiar no Firebase as propriedades de conexão do seu projeto e no arquivo firebase.js
+Não esqueça de copiar do Firebase as propriedades de conexão do seu projeto e colocá-las no arquivo firebase.js
 
 ```sh
     const firebaseConfig = {
